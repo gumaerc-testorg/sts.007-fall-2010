@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information about the second industrial revolution
   (part one).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-007-technology-in-history-fall-2010/0d75eb39688b372984cbe6fedb12cb4b_MITSTS_007F10_lec16_notes.pdf
+file: /media/courses/sts-007-technology-in-history-fall-2010/0d75eb39688b372984cbe6fedb12cb4b_MITSTS_007F10_lec16_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITSTS_007F10_lec16_notes.pdf
 uid: 0d75eb39-688b-3729-84cb-e6fedb12cb4b

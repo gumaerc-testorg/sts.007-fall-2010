@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 14ee9d7b-5639-3002-b279-d3a33a78c41a
 ---
@@ -135,7 +138,7 @@ Glossary ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec06_nt_jrc))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to MIT's 150th anniversary: class visit to MIT archives
+Introduction to MIT's 150{{< sup "th" >}} anniversary: class visit to MIT archives
 {{< tdclose >}}
 {{< tdopen >}}
  
