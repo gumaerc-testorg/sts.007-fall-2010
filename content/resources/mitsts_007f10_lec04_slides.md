@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 14ee9d7b-5639-3002-b279-d3a33a78c41a
 resourcetype: Document
 title: MITSTS_007F10_lec04_slides.pdf
 uid: 774380fa-e8b7-cb3b-0514-0a4dd85ff9ac
