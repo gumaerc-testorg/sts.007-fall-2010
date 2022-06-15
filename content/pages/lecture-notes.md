@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes and slides from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -53,9 +55,9 @@ What is _technology_? What is _history_ (and _prehistory_)? (Visitor: Prof. Leo 
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec02_notes))
+Notes ({{% resource_link a000b7e4-2791-6c59-2700-60238a97c8c0 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec02_slides))
+Slides ({{% resource_link 7d1e7388-e6c0-c5d5-4e9d-70e7a7149182 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -71,9 +73,9 @@ Technology in prehistory: cave art
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec03_notes))
+Notes ({{% resource_link 04a9da82-9dc0-6054-9681-343ae1912653 "PDF" %}})
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 11.7MB]({{< baseurl >}}/resources/mitsts_007f10_lec03_slides))
+Slides ({{% resource_link 6803a6bb-eaaa-3a4e-eee4-f289cb474fa2 "PDF - 11.7MB" %}})
 
 
 {{< tdclose >}}
@@ -89,9 +91,9 @@ Technology in "prehistory"
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec04_notes))
+Notes ({{% resource_link 6a15b172-b901-359d-23ab-419e19199edd "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec04_slides))
+Slides ({{% resource_link 774380fa-e8b7-cb3b-0514-0a4dd85ff9ac "PDF" %}})
 
 
 {{< tdclose >}}
@@ -125,9 +127,9 @@ The Neolithic Revolution
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec06_notes))
+Notes ({{% resource_link ae9b4687-2b75-0c4e-7274-489b59090aa9 "PDF" %}})
 
-Glossary ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec06_nt_jrc))
+Glossary ({{% resource_link a834cb13-380b-f069-07b5-aca7d3deafd2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -153,7 +155,7 @@ Introduction to MIT's 150{{< sup "th" >}} anniversary: class visit to MIT archiv
 Discuss visit to Archives
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec08_notes))
+Notes ({{% resource_link 965e88ee-ea98-9778-aa2e-8682c63dea6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ Technohistorical Revolutions (part two)
 Agrarian Civilizations (part one): megalithic agrarian civilizations
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec12_notes))
+Notes ({{% resource_link 838073c4-0800-1bff-34a9-b70e9f93f065 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,9 +241,9 @@ The Industrial Revolution
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec14_notes))
+Notes ({{% resource_link 00268170-95ac-c730-12f3-1119b10ec8fa "PDF" %}})
 
-Slides ([PDF - 4.7MB]({{< baseurl >}}/resources/mitsts_007f10_lec14_slides))
+Slides ({{% resource_link 37ce1451-ec3d-ce30-ca0d-eeafd48087f9 "PDF - 4.7MB" %}})
 
 
 {{< tdclose >}}
@@ -269,9 +271,9 @@ The Second Industrial Revolution (part one)
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec16_notes))
+Notes ({{% resource_link 0d75eb39-688b-3729-84cb-e6fedb12cb4b "PDF" %}})
 
-Slides ([PDF - 2.5MB]({{< baseurl >}}/resources/mitsts_007f10_lec16_slides))
+Slides ({{% resource_link 7c64f498-1155-affe-c793-03a4fe0131aa "PDF - 2.5MB" %}})
 
 
 {{< tdclose >}}
@@ -335,9 +337,9 @@ Chemical Engineering at MIT
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec20_notes))
+Notes ({{% resource_link b8bd3eb8-45a7-107a-ab72-ac0077dc2591 "PDF" %}})
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 10.2MB]({{< baseurl >}}/resources/mitsts_007f10_lec20_slides))
+Slides ({{% resource_link eb2980f0-8fca-b443-cb4c-af117af41c7e "PDF - 10.2MB" %}})
 
 
 {{< tdclose >}}
@@ -351,7 +353,7 @@ Slides (![This resource may not render correctly in a screen reader.](/images/in
 Ground Zero (part one)
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec21_notes))
+Notes ({{% resource_link cb2775f1-0baa-f968-c9ad-ca9a51594311 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +401,7 @@ Looking Back and Beyond: Presentations and discussion on "what is the role of te
 Looking Back and Beyond: Presentations and discussion on "what is the role of technology in history?" (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec25_review)) (Courtesy of MIT student. Used with permission.)
+({{% resource_link 19a15bca-c49f-007e-343b-3fce70bc92c4 "PDF" %}}) (Courtesy of MIT student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
