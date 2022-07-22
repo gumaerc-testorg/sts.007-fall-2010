@@ -6,6 +6,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/1669b43cca66fd0c784c83e36
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_007F10_read14.pdf
 uid: 1669b43c-ca66-fd0c-784c-83e368f4bbb0
 ---
 This resource contains information related to christian, globalization, commercialization, and innovation.
-

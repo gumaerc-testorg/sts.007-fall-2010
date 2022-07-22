@@ -6,6 +6,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/c3b2d2119b92b398623256f17
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_007F10_read10.pdf
 uid: c3b2d211-9b92-b398-6232-56f17a1b378b
 ---
 This resource contains information related to long trends in the era of Agrarian 'civilizations'.
-

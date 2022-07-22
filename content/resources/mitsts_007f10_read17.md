@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/2ade90a6da7417d69391a1908
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_read17.pdf
 uid: 2ade90a6-da74-17d6-9391-a1908596b679
 ---
 This resource contains questions on Schivelbusch, The Railway Journey.
-

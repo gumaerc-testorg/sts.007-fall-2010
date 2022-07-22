@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/ae9b46872b750c4e7274489b5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_lec06_notes.pdf
 uid: ae9b4687-2b75-0c4e-7274-489b59090aa9
 ---
 This resource contains information about the neolithic revolution.
-

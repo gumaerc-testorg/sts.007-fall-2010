@@ -6,6 +6,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/cfdf8aa26bca6a98ebb397644
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_007F10_read11.pdf
 uid: cfdf8aa2-6bca-6a98-ebb3-9764440571fd
 ---
 This resource contains reading questions on Christian, maps of time, chapter 11, "Approaching Modernity".
-

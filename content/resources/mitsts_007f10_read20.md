@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/cd2316595863e51965db3de46
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_read20.pdf
 uid: cd231659-5863-e519-65db-3de46e7bcb48
 ---
 This resource contains reading questions for Christian, maps of time.
-

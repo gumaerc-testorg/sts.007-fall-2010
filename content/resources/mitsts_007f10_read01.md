@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/7867a2a3f220b74ff0c4838e0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_read01.pdf
 uid: 7867a2a3-f220-b74f-f0c4-838e0139ac50
 ---
 This resource contains reading notes for class 1.
-

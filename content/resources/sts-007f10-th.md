@@ -10,10 +10,10 @@ image_metadata:
   image-alt: An image of a 1903 Burnley Ironworks Company, Stationary Engine, a corliss
     steam engine, on display at the London Museum of Science.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-007f10-th.jpg
 uid: fd8c67bb-5a70-112f-7786-d4aed5f49de4
 ---
 New image Upload
-

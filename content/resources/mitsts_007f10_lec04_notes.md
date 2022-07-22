@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/6a15b172b901359d23ab419e1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_lec04_notes.pdf
 uid: 6a15b172-b901-359d-23ab-419e19199edd
 ---
 This resource contains information about technology in "prehistory".
-

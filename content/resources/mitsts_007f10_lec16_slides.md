@@ -6,6 +6,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/7c64f4981155affec79303a4f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_007F10_lec16_slides.pdf
 uid: 7c64f498-1155-affe-c793-03a4fe0131aa
 ---
 This resource contains information about the Second industrial revolution (part one).
-

@@ -5,6 +5,7 @@ file: /courses/sts-007-technology-in-history-fall-2010/04a9da829dc060549681343ae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_007F10_lec03_notes.pdf
 uid: 04a9da82-9dc0-6054-9681-343ae1912653
 ---
 This resource contains information about cave art.
-
