@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course summary and information on meeting
+  times, requirements and grading, required books, and the schedule of lecture topics,
+  in-class activities, and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0bdada35-fd37-5b25-3d68-9f51a5af1f57
 ---
@@ -18,7 +23,7 @@ We focus on four fundamental transformations in these relations: the emergence o
 
 In each unit we will study, among other things, technologies as media of expression and communication; connections among technological, political, and military power; the concept of "technological revolutions"; and the role of imagination, beliefs, and values both in inspiring and in being shaped by technological creativity.
 
-Because MIT is celebrating its 150th anniversary in 2011, we will focus on connections between MIT as an institution and technology in the history of the last 150 years.
+Because MIT is celebrating its 150{{< sup "th" >}} anniversary in 2011, we will focus on connections between MIT as an institution and technology in the history of the last 150 years.
 
 Requirements and Grading
 ------------------------
@@ -209,7 +214,7 @@ The Neolithic Revolution
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to MIT's 150th anniversary: class visit to MIT archives
+Introduction to MIT's 150{{< sup "th" >}} anniversary: class visit to MIT archives
 {{< tdclose >}}
 {{< tdopen >}}
 Writing (check-off): Questions for Archivists

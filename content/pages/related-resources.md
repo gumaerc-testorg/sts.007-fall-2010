@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a video of a panel discussion on exploration and
+  discovery, including Prof. Rosalind Williams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 60fe327a-929c-b623-9b2a-2b12071964f1
 ---
