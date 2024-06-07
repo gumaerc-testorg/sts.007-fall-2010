@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains reading notes on David Christian, maps of time,
   chapter 13, "Birth of the Modern World.".
 file: /courses/sts-007-technology-in-history-fall-2010/ab5d12bae31d048a71105f908f8a6719_MITSTS_007F10_read15.pdf
+file_size: 27183
 file_type: application/pdf
 learning_resource_types:
 - Readings
