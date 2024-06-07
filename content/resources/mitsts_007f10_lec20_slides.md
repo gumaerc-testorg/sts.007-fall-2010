@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about from industry to battlefield
   and chemical engineering at MIT.
 file: /courses/sts-007-technology-in-history-fall-2010/eb2980f08fcab443cb4caf117af41c7e_MITSTS_007F10_lec20_slides.pdf
+file_size: 10700351
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

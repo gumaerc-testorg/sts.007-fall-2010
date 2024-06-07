@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains reading questions on Christian, maps of time,
   chapter 11, "Approaching Modernity".
 file: /courses/sts-007-technology-in-history-fall-2010/cfdf8aa26bca6a98ebb39764440571fd_MITSTS_007F10_read11.pdf
+file_size: 27154
 file_type: application/pdf
 learning_resource_types:
 - Readings

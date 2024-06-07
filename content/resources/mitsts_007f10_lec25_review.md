@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information about looking back and beyond: presentations
   and discussion on "what is the role of technology in history?"'
 file: /courses/sts-007-technology-in-history-fall-2010/19a15bcac49f007e343b3fce70bc92c4_MITSTS_007F10_lec25_review.pdf
+file_size: 39246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
