@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on Schivelbusch, The Railway Journey.
-file: /courses/sts-007-technology-in-history-fall-2010/2ade90a6da7417d69391a1908596b679_MITSTS_007F10_read17.pdf
+file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/2ade90a6da7417d69391a1908596b679_MITSTS_007F10_read17.pdf
 file_size: 30755
 file_type: application/pdf
 learning_resource_types:

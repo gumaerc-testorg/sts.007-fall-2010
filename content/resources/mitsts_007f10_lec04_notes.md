@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about technology in "prehistory".
-file: /courses/sts-007-technology-in-history-fall-2010/6a15b172b901359d23ab419e19199edd_MITSTS_007F10_lec04_notes.pdf
+file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/6a15b172b901359d23ab419e19199edd_MITSTS_007F10_lec04_notes.pdf
 file_size: 45926
 file_type: application/pdf
 learning_resource_types:
