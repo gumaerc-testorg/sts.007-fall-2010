@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about ground zero.
-file: /courses/sts-007-technology-in-history-fall-2010/cb2775f10baaf968c9adca9a51594311_MITSTS_007F10_lec21_notes.pdf
+file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/cb2775f10baaf968c9adca9a51594311_MITSTS_007F10_lec21_notes.pdf
 file_size: 68791
 file_type: application/pdf
 learning_resource_types:
