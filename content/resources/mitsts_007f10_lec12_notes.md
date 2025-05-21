@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about megalithic agrarian civilizations.
-file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/838073c408001bff34a9b70e9f93f065_MITSTS_007F10_lec12_notes.pdf
+file: /courses/sts-007-technology-in-history-fall-2010/838073c408001bff34a9b70e9f93f065_MITSTS_007F10_lec12_notes.pdf
 file_size: 126585
 file_type: application/pdf
 learning_resource_types:

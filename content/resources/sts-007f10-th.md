@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/fd8c67bb5a70112f7786d4aed5f49de4_sts-007f10-th.jpg
+file: /courses/sts-007-technology-in-history-fall-2010/fd8c67bb5a70112f7786d4aed5f49de4_sts-007f10-th.jpg
 file_size: 6319
 file_type: image/jpeg
 image_metadata:
