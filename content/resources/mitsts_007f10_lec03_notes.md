@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about cave art.
-file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/04a9da829dc060549681343ae1912653_MITSTS_007F10_lec03_notes.pdf
+file: /courses/sts-007-technology-in-history-fall-2010/04a9da829dc060549681343ae1912653_MITSTS_007F10_lec03_notes.pdf
 file_size: 35045
 file_type: application/pdf
 learning_resource_types:

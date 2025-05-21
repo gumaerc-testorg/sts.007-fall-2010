@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to christian, globalization,
   commercialization, and innovation.
-file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/1669b43cca66fd0c784c83e368f4bbb0_MITSTS_007F10_read14.pdf
+file: /courses/sts-007-technology-in-history-fall-2010/1669b43cca66fd0c784c83e368f4bbb0_MITSTS_007F10_read14.pdf
 file_size: 26407
 file_type: application/pdf
 learning_resource_types:
