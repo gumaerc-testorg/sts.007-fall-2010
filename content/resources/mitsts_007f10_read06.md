@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains reading questions on Christian, chapter 8: "Intensification
   and the Origins of Agriculture".'
-file: /courses/sts-007-technology-in-history-fall-2010/a450c0e04ddc9a3581c0744bf315a45c_MITSTS_007F10_read06.pdf
+file: /ol-ocw-studio-app/courses/sts-007-technology-in-history-fall-2010/a450c0e04ddc9a3581c0744bf315a45c_MITSTS_007F10_read06.pdf
 file_size: 23086
 file_type: application/pdf
 learning_resource_types:
