@@ -89,12 +89,12 @@ Revised paper
 
 {{< tableclose >}}
 
-This course is a [Communications Intensive HASS](http://web.mit.edu/commreq/) (CI-H) subject. Students are required to have two meetings with the class Writing Advisor.
+This course is a {{% resource_link "3ee09761-a274-4e50-bc6d-7ce64cda4455" "Communications Intensive HASS" %}} (CI-H) subject. Students are required to have two meetings with the class Writing Advisor.
 
 Required Books
 --------------
 
-Christian, David. _Maps of Time: An Introduction to Big History_. University of California Press, 2004. ISBN: 9780520244764. \[Preview with [Google Books](http://books.google.com/books?id=VUqZl7RdNtwC&printsec=frontcover#v=onepage&q&f=false)\]
+Christian, David. _Maps of Time: An Introduction to Big History_. University of California Press, 2004. ISBN: 9780520244764. \[Preview with {{% resource_link "fe9663f3-646b-44c8-91cc-b30d7df090a7" "Google Books" %}}\]
 
 Hersey, John. _Hiroshima_. Vintage, 1989 \[originally published in _The New Yorker_, 1946\]. ISBN: 9780679721031.
 
