@@ -169,9 +169,9 @@ Civilizations and Empires (part two)
 {{< tdopen >}}
 
 
-See [Wikipedia: Megalith](http://en.wikipedia.org/wiki/megalith)
+See {{% resource_link "1fcc8685-8139-4635-84be-ee7fdb2cf825" "Wikipedia: Megalith" %}}
 
-Lubbock, Tom. "[Uffington White Horse (c.1000BC)](http://www.independent.co.uk/arts-entertainment/art/great-works/uffington-white-horse-c1000bc-744432.html)." _The Independent (UK)_, Great Art Series. 30 March 2007. 
+Lubbock, Tom. "{{% resource_link "81a7d718-a827-4cb3-86fb-9826c92a7874" "Uffington White Horse (c.1000BC)" %}}." _The Independent (UK)_, Great Art Series. 30 March 2007. 
 
 
 {{< tdclose >}}

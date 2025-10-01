@@ -11,7 +11,7 @@ uid: 02fa6a93-8e6b-57dd-7396-b6ccc08bbee7
 ---
 ## **Key**
 
-\[DC\] = Christian, David. *Maps of Time: An Introduction to Big History*. University of California Press, 2004. ISBN: 9780520244764. \[Preview with [Google Books](http://books.google.com/books?id=VUqZl7RdNtwC&printsec=frontcover#v=onepage&q&f=false)\]
+\[DC\] = Christian, David. *Maps of Time: An Introduction to Big History*. University of California Press, 2004. ISBN: 9780520244764. \[Preview with {{% resource_link "fe9663f3-646b-44c8-91cc-b30d7df090a7" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **LEC #**
@@ -28,7 +28,7 @@ uid: 02fa6a93-8e6b-57dd-7396-b6ccc08bbee7
 {{< tdclose >}}{{< tdopen >}}
 Introduction to class and key concepts
 {{< tdclose >}}{{< tdopen >}}
-Marx, Leo. "[*Technology*: The Emergence of a Hazardous Concept](http://etc.technologyandculture.net/2010/08/technology-a-hazardous-concept/)." *Technology and Culture* 51 (July 2010): 561-577.
+Marx, Leo. "{{% resource_link "75fc8f4e-c39f-418f-a3ec-f157b92c4665" "*Technology*: The Emergence of a Hazardous Concept" %}}." *Technology and Culture* 51 (July 2010): 561-577.
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "7867a2a3-f220-b74f-f0c4-838e0139ac50" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -55,11 +55,11 @@ Technology in prehistory: cave art
 
 Wade, N. "The Long Struggle Against the Neanderthals." In *Before the Dawn*. Penguin Books, 2006, pp. 90-94. ISBN: 9781594200793.
 
-Mithen, Steven. "[Of Ice and Men](https://www.tes.com/news/ice-and-men)." *The Times Educational Supplement*, September 5, 2003.
+Mithen, Steven. "{{% resource_link "247701f3-b20d-4ea7-8c21-10f6093b032b" "Of Ice and Men" %}}." *The Times Educational Supplement*, September 5, 2003.
 
 ### *Optional*
 
-"[Mapping the Neanderthal Genome: A Conversation with Svante Pääbo](http://www.edge.org/3rd_culture/paabo09/paabo09_index.html)." *Edge*, 7.4.09.
+"{{% resource_link "32e0a5f7-4623-4e28-a7f5-cadb94ec7c7c" "Mapping the Neanderthal Genome: A Conversation with Svante Pääbo" %}}." *Edge*, 7.4.09.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -71,7 +71,7 @@ Technology in "prehistory"
 
 Auel, J. M. Chapter 7 of *The Clan of the Cave Bear*. Pp. 95-112. ISBN: 9780553250428.
 
-Goldstein, Joseph. "[The New Age Cavemen and the City](http://www.nytimes.com/2010/01/10/fashion/10caveman.html)." *The New York Times*, January 10, 2010.
+Goldstein, Joseph. "{{% resource_link "6615ae92-3920-43e4-8f18-bd700bd067e0" "The New Age Cavemen and the City" %}}." *The New York Times*, January 10, 2010.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -93,7 +93,7 @@ The Neolithic Revolution
 
 \[DC\], Chapter 8
 
-Smith, B. D. "[The Ultimate Ecosystems Engineers](http://dx.doi.org/10.1126/science.1137740)." *Science* 315 (March 30, 2007): 1797-8.
+Smith, B. D. "{{% resource_link "9c0190fb-393a-41bd-8fe1-a058067832c6" "The Ultimate Ecosystems Engineers" %}}." *Science* 315 (March 30, 2007): 1797-8.
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "a450c0e0-4ddc-9a35-81c0-744bf315a45c" "PDF" %}})
@@ -113,7 +113,7 @@ Discuss visit to Archives
 
 Diamond, Jared. "Twilight at Easter." Chapter 2 in *Collapse*. Penguin Books, 2011. ISBN: 9780143117001.
 
-McNeill, J. R. "[Making Historical Comparisons](https://www.americanscientist.org/article/making-historical-comparisons)." *American Scientist* 98 (September-October 2010): 434-436.
+McNeill, J. R. "{{% resource_link "a6620cc0-d3e5-46c4-a517-5864bbd5fd01" "Making Historical Comparisons" %}}." *American Scientist* 98 (September-October 2010): 434-436.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -157,7 +157,7 @@ Agrarian Civilizations (part two): the Roman Empire as an agrarian civilization
 
 ### *Optional*
 
-Bohannon, J. "[The Nile Delta's Sinking Future](http://dx.doi.org/10.1126/science.327.5972.1444)." *Science* 327, no. 5972 (March 19, 2010): 1444-1447.
+Bohannon, J. "{{% resource_link "bff9821d-a1f7-4cf1-84a2-8bb89bbdf3e2" "The Nile Delta's Sinking Future" %}}." *Science* 327, no. 5972 (March 19, 2010): 1444-1447.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -197,11 +197,11 @@ The Second Industrial Revolution (part one)
 The Second Industrial Revolution (part two)
 {{< tdclose >}}{{< tdopen >}}
 
-Marx, K., and F. Engels. [*Communist Manifesto*](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/). Part One (Bourgeois and Proletarians).
+Marx, K., and F. Engels. {{% resource_link "a4423832-5ee2-41a1-a25d-87a23e579fe3" "*Communist Manifesto*" %}}. Part One (Bourgeois and Proletarians).
 
-Schivelbusch, W. *Disenchanted Night: The Industrialization of Light*. University of California Press, 1995, pp. 58-78, 213-221. ISBN: 9780520203549. \[Preview with [Google Books](http://books.google.com/books?id=6-4K1ruL2YIC&lpg=PP1&pg=PA58#v=onepage&q&f=false)\]
+Schivelbusch, W. *Disenchanted Night: The Industrialization of Light*. University of California Press, 1995, pp. 58-78, 213-221. ISBN: 9780520203549. \[Preview with {{% resource_link "02f44c7a-db2b-40d1-8482-caef2542bdd9" "Google Books" %}}\]
 
-\----. "Panoramic Travel." Chapter 4 in *The Railway Journey: The Industrialization of Time and Space in the 19th Century*. University of California Press, 1987, pp. 52-69. ISBN: 9780520059290. \[Preview with [Google Books](http://books.google.com/books?id=890nCC_kZeIC&lpg=PP1&pg=PA52#v=onepage&q&f=false)\]
+\----. "Panoramic Travel." Chapter 4 in *The Railway Journey: The Industrialization of Time and Space in the 19th Century*. University of California Press, 1987, pp. 52-69. ISBN: 9780520059290. \[Preview with {{% resource_link "6b718fb1-7332-475e-a646-5f26dba97551" "Google Books" %}}\]
 
 ### *Optional*
 
@@ -247,8 +247,8 @@ Ground Zero (part one)
 
 Selections from Miyagawa, S., and J. Dower. *Visualizing Cultures*.
 
-- [Ground Zero 1945: Pictures by Atomic Bomb Survivors](http://ocw.mit.edu/ans7870/21f/21f.027/groundzero1945/index.html)
-- [Ground Zero 1945: A Schoolboy's Story](http://ocw.mit.edu/ans7870/21f/21f.027/groundzero1945_2/index.html)
+- {{% resource_link "6814987b-ec70-43a3-a2d7-9a30b22e49ba" "Ground Zero 1945: Pictures by Atomic Bomb Survivors" %}}
+- {{% resource_link "20dead5b-6de5-4bdd-9059-4a182d42fa8d" "Ground Zero 1945: A Schoolboy's Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -268,9 +268,9 @@ Looking Back and Beyond: General review of MIT 150
 
 ### *Optional*
 
-[![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232234) Williams, R. Chapter 1 (excerpt) and chapter 2 in [*Retooling: A Historian Confronts Technological Change*](https://mitpress.mit.edu/9780262232234). The MIT Press, 2002, pp. 18-89. ISBN: 9780262232234. \[Preview with [Google Books](http://books.google.com/books?id=7teSkSnXRYgC&lpg=PP1&pg=PA18#v=onepage&q&f=false)\]
+{{% resource_link "9c075171-0d54-48e7-8922-3aa527bf2980" "![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)" %}} Williams, R. Chapter 1 (excerpt) and chapter 2 in {{% resource_link "9c075171-0d54-48e7-8922-3aa527bf2980" "*Retooling: A Historian Confronts Technological Change*" %}}. The MIT Press, 2002, pp. 18-89. ISBN: 9780262232234. \[Preview with {{% resource_link "a42d7054-978e-49eb-8ac9-03394b4821a7" "Google Books" %}}\]
 
-Terborgh, J. "[The World Is in Overshoot](http://www.nybooks.com/articles/archives/2009/dec/03/the-world-is-in-overshoot/)." *The New York Review of Books*, December 3, 2009, pp. 45-47.
+Terborgh, J. "{{% resource_link "74c3ab8a-4fd2-40d3-900f-017c2f505365" "The World Is in Overshoot" %}}." *The New York Review of Books*, December 3, 2009, pp. 45-47.
 
 {{< tdclose >}}{{< tdopen >}}
  
