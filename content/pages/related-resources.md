@@ -13,7 +13,7 @@ Great Ages of Exploration and Discovery
 
 This video is no longer available.
 
-The discussion from the MIT150 Symposium "{{% resource_link "1f87cd9c-64d5-4e56-831e-0505cab0cadd" "Earth, Air, Ocean and Space: The Future of Exploration" %}}" provides an historical perspective of exploration and discovery with leading authors.
+The discussion from the MIT150 Symposium "[Earth, Air, Ocean and Space: The Future of Exploration](http://news.mit.edu/2011/symposium-earth-air-ocean-and-space-future-exploration)" provides an historical perspective of exploration and discovery with leading authors.
 
 **Welcome**
 
